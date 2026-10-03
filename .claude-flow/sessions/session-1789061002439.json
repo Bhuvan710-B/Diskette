@@ -1,0 +1,15 @@
+{
+  "id": "session-1789061002439",
+  "startedAt": "2026-09-10T17:23:22.439Z",
+  "cwd": "/Users/bhuvanbhandari/Downloads/Diskette",
+  "context": {},
+  "metrics": {
+    "edits": 5,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "restoredAt": "2026-09-10T18:07:54.190Z",
+  "endedAt": "2026-09-10T18:18:23.368Z",
+  "duration": 3300934
+}
